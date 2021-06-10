@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website of bl zhang</title>
+    <link>https://bl-zhang.github.io/</link>
+    <description>Recent content on Website of bl zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Jun 2021 00:02:24 +0800</lastBuildDate><atom:link href="https://bl-zhang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Myfirst</title>
+      <link>https://bl-zhang.github.io/post/myfirst/</link>
+      <pubDate>Fri, 11 Jun 2021 00:02:24 +0800</pubDate>
+      
+      <guid>https://bl-zhang.github.io/post/myfirst/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
