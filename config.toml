@@ -1,4 +1,4 @@
-baseURL = "https://bl-zhang.github.io/"
+baseURL = "https://bl-zhang.github.io"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Website of bl zhang"
@@ -9,7 +9,7 @@ enableRobotsTXT = true
 themesDir="D:/hugo/myBlogger/themes"
 # Enable Disqus
 #disqusShortname = ""
-profilePicture = "images/profile.jpg"
+profilePicture = "D:/hugo/myBlogger/themes/anatole-master/exampleSite/static/images/profile.jpg"
 # Google Analytics
 #googleAnalytics = "UA-123-45"
 
