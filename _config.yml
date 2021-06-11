@@ -1,5 +1,0 @@
-#theme: jekyll-theme-cayman
-url: https://github.com/bl-zhang/bl-zhang.github.io.git
-root: /bl-zhang.github.io/
-permalink: :year/:month/:day/:title/
-permalink_defaults:
